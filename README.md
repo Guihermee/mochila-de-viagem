@@ -4,7 +4,6 @@ Desenvolvendo um formulário para aprender amazenamento na web com JS. utilizamo
 
 * querySelectorAll()
 * querySelector()
-<<<<<<< HEAD
 * createElement()
 * classList.add()
 * .appendChild()
@@ -18,5 +17,5 @@ https://square-corleggy-ed5.notion.site/JavaScript-na-Web-armazenando-dados-no-n
 =======
 
 
-# Estado do projeto: EM ANDAMENTO
->>>>>>> 73346d198ea217bb8f89e7751584e0d1df38e211
+# Estado do projeto: 
+EM ANDAMENTO
