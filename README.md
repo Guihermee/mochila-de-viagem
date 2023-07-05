@@ -7,6 +7,9 @@ Desenvolvendo um formulário para aprender amazenamento na web com JS. utilizamo
 * createElement()
 * classList.add()
 * .appendChild()
+* .push
+* JSON.stringify()
+* .setItem
 
 # Estado do projeto:
 Em andamento
