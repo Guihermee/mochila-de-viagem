@@ -10,6 +10,12 @@ Desenvolvendo um formulário para aprender amazenamento na web com JS. utilizamo
 * .push
 * JSON.stringify()
 * .setItem
+* .preventDefault()
+* .find
+* .length
+* .splice
+* .findIndex
+* .parentNode
 
 # Estado do projeto:
 Em andamento
