@@ -18,4 +18,4 @@ Desenvolvendo um formulário para aprender amazenamento na web com JS. utilizamo
 * .parentNode
 
 # Estado do projeto:
-Em andamento
+Finalizado
